@@ -1,4 +1,4 @@
-package edu.example.tutorialspringmongodb;
+package br.edu.springmongodb;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
